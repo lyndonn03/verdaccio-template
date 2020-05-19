@@ -14,6 +14,6 @@ Steps:
     
 
 # TODOS:
-[x] Use AWS S3 to share packages (Update README)
-[] Use github OAUTH and whitelist only accounts in a certain organization
-[] Integrate lerna(monorepo) to let versioning of packages easier.
+- [x] Use AWS S3 to share packages (Update README)
+- [ ] Use github OAUTH and whitelist only accounts in a certain organization
+- [ ] Integrate lerna(monorepo) to let versioning of packages easier.
